@@ -1,5 +1,5 @@
 const App = () => {
-  return <div>Hello Git2回目コミット保存用 さらに保存テスト</div>;
+  return <div>Hello Git　ブランチテスト用これを起点</div>;
 };
 
 export default App;
